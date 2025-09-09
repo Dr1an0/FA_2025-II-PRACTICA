@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\UPN\\Downloads\\SI ENTRAS ERES GAY\\FA_2025-II-PRACTICA\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{2C40B799-55EE-4641-A216-1018609986D4}|SEMANA4-PY\\SEMANA4-PY.pyproj|C:\\Users\\UPN\\Downloads\\SI ENTRAS ERES GAY\\FA_2025-II-PRACTICA\\SEMANA4-PY\\SEMANA4_PY.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{2C40B799-55EE-4641-A216-1018609986D4}|SEMANA4-PY\\SEMANA4-PY.pyproj|solutionrelative:SEMANA4-PY\\SEMANA4_PY.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9061C2ED-DEE1-4970-A8A7-B0F16579E8EA}|Semana_1_Python\\SEMANA1_Python.pyproj|C:\\Users\\UPN\\Downloads\\SI ENTRAS ERES GAY\\FA_2025-II-PRACTICA\\Semana_1_Python\\Semana_1_Python.py||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{9061C2ED-DEE1-4970-A8A7-B0F16579E8EA}|Semana_1_Python\\SEMANA1_Python.pyproj|solutionrelative:Semana_1_Python\\Semana_1_Python.py||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
@@ -23,19 +27,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "SEMANA4_PY.py",
+              "DocumentMoniker": "C:\\Users\\UPN\\Downloads\\SI ENTRAS ERES GAY\\FA_2025-II-PRACTICA\\SEMANA4-PY\\SEMANA4_PY.py",
+              "RelativeDocumentMoniker": "SEMANA4-PY\\SEMANA4_PY.py",
+              "ToolTip": "C:\\Users\\UPN\\Downloads\\SI ENTRAS ERES GAY\\FA_2025-II-PRACTICA\\SEMANA4-PY\\SEMANA4_PY.py",
+              "RelativeToolTip": "SEMANA4-PY\\SEMANA4_PY.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-09-09T20:41:50.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Semana_1_Python.py",
               "DocumentMoniker": "C:\\Users\\UPN\\Downloads\\SI ENTRAS ERES GAY\\FA_2025-II-PRACTICA\\Semana_1_Python\\Semana_1_Python.py",
               "RelativeDocumentMoniker": "Semana_1_Python\\Semana_1_Python.py",
               "ToolTip": "C:\\Users\\UPN\\Downloads\\SI ENTRAS ERES GAY\\FA_2025-II-PRACTICA\\Semana_1_Python\\Semana_1_Python.py",
               "RelativeToolTip": "Semana_1_Python\\Semana_1_Python.py",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAACEAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
               "WhenOpened": "2025-09-02T20:11:25.106Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\UPN\\Downloads\\SI ENTRAS ERES GAY\\FA_2025-II-PRACTICA\\SEMANA1_C#\\Program.cs",
               "RelativeDocumentMoniker": "SEMANA1_C#\\Program.cs",
