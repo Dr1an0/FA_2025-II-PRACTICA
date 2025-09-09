@@ -3,8 +3,10 @@ def ejer1():
     carrera = input("INGRESE SU CARRERA: ")
 
     print(f"\n{nombre}, BIENVENIDO A FUNDAMENTOS DE ALGORITMO DE {carrera}") #f = $ en C# (ES CONCATENAR)
-
 def ejer2():
+    print("\"\"James\"\"")
+
+def ejer3():
     x = int(input("Ingresar el valor de x: "))
     y = int(input("Ingresar el valor de y: "))
 

@@ -29,22 +29,22 @@ namespace SEMANA1_C_
         }
         static void ejer2()
         {
+            Console.WriteLine("\"James\"");
+        }
+        static void ejer3()
+        {
             Console.Write("Ingrese numero x: ");
-            int x = int.Parse( Console.ReadLine() );
+            int x = int.Parse(Console.ReadLine());
 
             Console.Write("Ingrese numero y: ");
             int y = Convert.ToInt32(Console.ReadLine());
 
-            double resu = (double) x / (double) y;
+            double resu = (double)x / (double)y;
 
-            Console.WriteLine("Suma: "+(x+y));
+            Console.WriteLine("Suma: " + (x + y));
             Console.WriteLine("Resta: " + (x - y));
             Console.WriteLine("Multiplicación: " + (x * y));
             Console.WriteLine("División: " + resu);
-
-        }
-        static void ejer3()
-        {
 
         }
         static void ejer4()
